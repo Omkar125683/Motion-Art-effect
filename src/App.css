@@ -1,0 +1,12 @@
+/* App.css */
+body {
+  font-family: 'Sora', sans-serif;
+}
+.hero-section {
+  background: linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+}
+@media (max-width: 768px) {
+  .hero-text {
+    font-size: 3rem;
+  }
+}
